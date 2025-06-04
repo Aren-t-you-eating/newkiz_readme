@@ -1,4 +1,4 @@
-# 뉴키즈(NewKiz)
+# 📰뉴키즈(NewKiz)
 ![main](exec/main.png)
 ---
 ## 📚 목차 (Table of Contents)
@@ -38,12 +38,37 @@
 
 ## 🎯 주요 화면 및 기능 소개
 ### 메인 화면 
+![메인화면](exec/scenario/recommendation.gif)
 - 🗞️ **오늘의 주요 뉴스 10개 추천**
-- ✍️ **난이도별 기사 제공**
 - 🎯 **사용자 설정 카테고리별 맞춤 뉴스 추천**
-- 🔍 **읽은 기사와 관련된 유사 뉴스 자동 추천**
-- 🧠 **사용자 요약 vs AI 요약 비교**
-- 🖊 **객관식 퀴즈로 이해도 점검**
+</br>
+
+### 뉴스 화면 
+![뉴스 상세](exec/scenario/difficulty.gif)
+- ✍️ **난이도별 기사 내용 제공**
+
+</br>
+
+<div style="display: flex; gap: 16px;">
+  <img src="exec/scenario/quiz.gif" alt="뉴스 맞춤 객관식 퀴즈" width="200"/>
+  <img src="exec/scenario/summary.gif" alt="뉴스 요약" width="200"/>
+  <img src="exec/scenario/chatbot.gif" alt="챗봇" width="200"/>
+</div>
+
+- 🧠 **사용자 요약 vs AI 요약 비교** </br>
+- 🖊 **객관식 퀴즈로 이해도 점검**</br>
+- 🔍 **읽은 기사와 관련된 유사 뉴스 자동 추천**</br>
+- 🤖 **모르는 단어/용어 뜻을 알려주는 챗봇**
+</br>
+
+### 게임 화면
+![게임](exec/scenario/game.gif)
+
+- 🎮 **게임**
+
+### 기자단 화면
+![기자단](exec/scenario/reporter.gif)
+
 - 📝 **기사 작성 및 커뮤니티 소통 기능**
 
 ---
@@ -54,6 +79,7 @@
 ---
 
 ## 🏗️ 아키텍처
+
 ![Architecture](exec/Architecture.png)
 
 ---
@@ -80,3 +106,26 @@
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
 
 ---
+## 👥 팀 구성
+
+<table>
+  <tbody>
+    <tr align="center">
+      <td><img src="https://avatars.githubusercontent.com/u/113484236?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/108385400?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/105963431?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/175383118?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/145769307?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/105963431?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+    </tr>
+    <tr align="center">
+      <td width="200"><a href="http://github.com/haazz">팀장 : 하지원<br/>BE/AI</a></td>
+      <td width="200"><a href="http://github.com/jjoonior">팀원 : 허인주<br/>BE/Infra</a></td>
+      <td width="200"><a href="https://github.com/">팀원 : 고태연<br/>FE</a></td>
+      <td width="200"><a href="https://github.com/kangansoo">팀원 : 강안수<br/>FE</a></td>
+      <td width="200"><a href="https://github.com/arnold714">팀원 : 박재형<br/>BE</a></td>
+      <td width="200"><a href="https://github.com/newww-a">팀원 : 신승아<br/>FE</a></td>
+    </tr>
+    
+  </tbody>
+</table>
