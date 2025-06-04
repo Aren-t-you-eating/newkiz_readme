@@ -112,12 +112,12 @@
 <table>
   <tbody>
     <tr align="center">
-      <td><img src="https://avatars.githubusercontent.com/u/113484236?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
-      <td><img src="https://avatars.githubusercontent.com/u/108385400?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/127824457?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/121348399?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
       <td><img src="https://avatars.githubusercontent.com/u/105963431?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/137989190?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/116993794?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
       <td><img src="https://avatars.githubusercontent.com/u/175383118?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
-      <td><img src="https://avatars.githubusercontent.com/u/145769307?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
-      <td><img src="https://avatars.githubusercontent.com/u/105963431?v=4" width="100px;" style="border-radius: 50%;" alt=""/><br /></td>
     </tr>
     <tr align="center">
       <td width="200"><a href="http://github.com/haazz">팀장 : 하지원<br/>BE/AI</a></td>
@@ -127,6 +127,5 @@
       <td width="200"><a href="https://github.com/arnold714">팀원 : 박재형<br/>BE</a></td>
       <td width="200"><a href="https://github.com/newww-a">팀원 : 신승아<br/>FE</a></td>
     </tr>
-    
   </tbody>
 </table>
